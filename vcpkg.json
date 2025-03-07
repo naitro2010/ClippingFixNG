@@ -10,7 +10,8 @@
       "dependencies": [
         "commonlibsse-ng",
         "spdlog",
-        "detours"
+        "detours",
+        "directxtk"
       ]
     }
   },
